@@ -1,4 +1,4 @@
-# Dashboard de Governança e Maturidade de IA
+# Dashboard de Governança, Maturidade e Adoção de IA
 
 Site público estático publicado via GitHub Pages.
 
